@@ -10,4 +10,4 @@ navbar:
       href: http://github.com/lulujason/
 output:
   html_document:
-    theme: cerulean
+    theme: darkly
