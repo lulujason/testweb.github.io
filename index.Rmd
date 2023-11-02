@@ -1,0 +1,10 @@
+---
+title: "Hello!!I'm Haitian"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: darkly
+---
+
+ <font size="8"><i> Welcome to my personal website.I'm a first year student of Biostatistic program in Columbia University of Irvine Medical Center. <i></font>
